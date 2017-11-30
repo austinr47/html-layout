@@ -1,0 +1,20 @@
+.header {
+    height: 135px;
+    width: 100%;
+    background-color: rgb(87, 85, 85);
+}
+
+.container {
+    padding: 0px 150px 0px 150px;
+    background-color: rgb(222, 220, 220);
+}
+.content {
+    height: 600px;
+    background-color: white;
+}
+
+.ending {
+    height: 75px;
+    background-color: black;
+    margin: auto;
+}
